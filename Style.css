@@ -1,0 +1,13 @@
+.header
+{
+  background-color: gray;
+  color: red;
+  text-align: center;
+  padding: 20;
+}
+.topnav
+{
+  float: left;
+  display: block;
+  
+}
